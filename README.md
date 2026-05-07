@@ -93,18 +93,3 @@ jupyter notebook experiments/kantopo_vs_hybrid.ipynb
 
 Kết quả chi tiết ablation study xem tại [docs/ablation_results.pdf](docs/ablation_results.pdf)
 
-## Tác giả
-
-[Thêm thông tin tác giả]
-
-## License
-
-[Thêm license]
-
-## Trích dẫn
-
-Nếu sử dụng code hoặc dữ liệu này, vui lòng trích dẫn:
-
-```
-[Thêm citation]
-```
